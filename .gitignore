@@ -8,6 +8,10 @@ node_modules/
 dist/
 .eslintcache
 build/
+.env
+.env.development
+.env.production
+
 
 
 # Compiled Java class files
